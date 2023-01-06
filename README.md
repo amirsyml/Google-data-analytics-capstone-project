@@ -17,8 +17,17 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
   
 Produce a report with the following deliverables:
 * A clear statement of the business task
-* A description of the business task
+* A description of all data sources used
 * Documentation of any cleaning or manipulation of data
 * A summary of your analysis
 * Supporting visualisations and key findings
 * Your top three recommendations based on your analysis
+  
+## Tools
+  
+* R for Data Cleaning, Data Manipulation, Data Visualisation and Data Analysis
+* PowerBI for Data Visualisation and Data Analysis
+  
+## Dataset
+  
+* [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
