@@ -1,1 +1,1 @@
-# google-data-analytics-capstone-project
+# Google-Data-Analytics-Capstone
