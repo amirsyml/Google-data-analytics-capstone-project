@@ -16,9 +16,9 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 ## Key tasks
   
 Produce a report with the following deliverables:
-  "*" A clear statement of the business task
-  "*" A description of the business task
-  "*" Documentation of any cleaning or manipulation of data
-  "*" A summary of your analysis
-  "*" Supporting visualisations and key findings
-  "*" Your top three recommendations based on your analysis
+* A clear statement of the business task
+* A description of the business task
+* Documentation of any cleaning or manipulation of data
+* A summary of your analysis
+* Supporting visualisations and key findings
+* Your top three recommendations based on your analysis
