@@ -2,4 +2,5 @@
 
 ## Cyclistic Bike Share Analysis
 
-<img src="https://github.com/amirsyml/google-data-analytics-capstone-project/blob/main/Cyclistic-logo.png">
+<p align = "center">
+  <img src="https://github.com/amirsyml/google-data-analytics-capstone-project/blob/main/Cyclistic-logo.png">
