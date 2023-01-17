@@ -3,7 +3,7 @@
 ## Cyclistic Bike Share Analysis
 
 <div align="center">
-  ![cyclistic_logo](https://media.licdn.com/dms/image/C4D12AQFcN3spmvPcNw/article-cover_image-shrink_600_2000/0/1628010650672?e=2147483647&v=beta&t=X2cd6qBxXaUF_tEsmPRXqIHTu1ZwmKK61o3jNVk7cXI)
+  ![cyclistic_logo]([https://media.licdn.com/dms/image/C4D12AQFcN3spmvPcNw/article-cover_image-shrink_600_2000/0/1628010650672?e=2147483647&v=beta&t=X2cd6qBxXaUF_tEsmPRXqIHTu1ZwmKK61o3jNVk7cXI](https://media.licdn.com/dms/image/C4D12AQFcN3spmvPcNw/article-cover_image-shrink_600_2000/0/1628010650672?e=2147483647&v=beta&t=X2cd6qBxXaUF_tEsmPRXqIHTu1ZwmKK61o3jNVk7cXI))
 </div>
 
 
